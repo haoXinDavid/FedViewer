@@ -188,9 +188,9 @@ David W. Wilcox
 Economist
 
 
+ 
 
-
-
+ 
 
 
 Thomas A. Connors
@@ -498,7 +498,7 @@ Participants noted that the statement reflects an exceptionally high degree of c
 
 All participants but one supported adopting the proposed amendments. Participants agreed that it was appropriate to release the amended statement, which is reproduced below, in advance of the Monetary Policy Report and testimony, which were scheduled for mid-February.
 
-
+ 
 
 STATEMENT ON LONGER-RUN GOALS AND MONETARY POLICY STRATEGY
 
@@ -528,7 +528,7 @@ Staff Review of the Economic Situation
 
 The information reviewed for the January 26-27 meeting indicated that labor market conditions continued to improve in the fourth quarter of last year even though growth in real gross domestic product (GDP) appeared to slow. Consumer price inflation was still running below the Committee's longer-run objective of 2 percent, restrained in part by decreases in both energy prices and the prices of non-energy imports. Recent survey-based measures of longer-run inflation expectations were little changed, on balance, while market-based measures of inflation compensation declined further.
 
-Total nonfarm payroll employment increased substantially in December, and the monthly pace of job gains in the fourth quarter as a whole was faster than in the third quarter. The unemployment rate remained at 5.0 percent in December, while both the labor force participation rate and the employment-to-population ratio increased a little. The share of workers employed part time for economic reasons moved down a bit in December. The rates of private-sector job openings, hires, and quits were little changed in November. The four-week moving average of initial claims for unemployment insurance benefits was somewhat higher in early January than its very low level late last year. Average hourly earnings for all employees increased 2-1/2 percent over the 12 months ending in December, about1/2 percentage point more than over the same period a year earlier.
+Total nonfarm payroll employment increased substantially in December, and the monthly pace of job gains in the fourth quarter as a whole was faster than in the third quarter. The unemployment rate remained at 5.0 percent in December, while both the labor force participation rate and the employment-to-population ratio increased a little. The share of workers employed part time for economic reasons moved down a bit in December. The rates of private-sector job openings, hires, and quits were little changed in November. The four-week moving average of initial claims for unemployment insurance benefits was somewhat higher in early January than its very low level late last year. Average hourly earnings for all employees increased 2-1/2 percent over the 12 months ending in December, about 1/2 percentage point more than over the same period a year earlier.
 
 Industrial production decreased in November and December, primarily reflecting the ongoing effects of the appreciation of the foreign exchange value of the dollar and the declines in crude oil prices since the middle of 2014. Manufacturing output declined, with a step-down in the production of motor vehicles and parts from the high levels seen earlier last year, while production outside of the motor vehicle sector was roughly flat. Production in the mining sector continued to fall, and the output of utilities declined, as the weather was unseasonably warm. Automakers' assembly schedules and broader indicators of manufacturing production, such as the readings on new orders from national and regional manufacturing surveys, mostly pointed to a slow pace of gains in factory output early this year. Information on drilling activity for crude oil and natural gas in early January was consistent with further declines in mining output.
 
@@ -616,7 +616,7 @@ In assessing whether economic conditions had improved sufficiently to warrant a 
 
 In discussing the appropriate path for the target range for the federal funds rate over the medium term, members agreed that it would be important to closely monitor global economic and financial developments and to continue to assess their implications for the labor market and inflation, and for the balance of risks to the outlook. Members expressed a range of views regarding the implications of recent economic and financial developments for the degree of uncertainty about the medium-term outlook, with many members judging that uncertainty had increased. Members generally agreed that the implications of the available information were not sufficiently clear to allow members to assess the balance of risks to the economic outlook in the Committee's postmeeting statement. However, members observed that if the recent tightening of global financial conditions was sustained, it could be a factor amplifying downside risks.
 
-After assessing the outlook for economic activity, the labor market, and inflation, and after weighing the uncertainties associated with the outlook, members agreed to leave the target range for the federal funds rate unchanged at1/4 to 1/2percent. The Committee also maintained its policy of reinvesting principal payments from agency debt and agency mortgage-backed securities and of rolling over maturing Treasury securities at auction, and it anticipated that it would be appropriate to continue this reinvestment policy until normalization of the level of the federal funds rate was well under way. This policy, by keeping the Committee's holdings of longer-term securities at sizable levels, should help maintain accommodative financial conditions.
+After assessing the outlook for economic activity, the labor market, and inflation, and after weighing the uncertainties associated with the outlook, members agreed to leave the target range for the federal funds rate unchanged at 1/4 to 1/2 percent. The Committee also maintained its policy of reinvesting principal payments from agency debt and agency mortgage-backed securities and of rolling over maturing Treasury securities at auction, and it anticipated that it would be appropriate to continue this reinvestment policy until normalization of the level of the federal funds rate was well under way. This policy, by keeping the Committee's holdings of longer-term securities at sizable levels, should help maintain accommodative financial conditions.
 
 At the conclusion of the discussion, the Committee voted to authorize and direct the Federal Reserve Bank of New York, until it was instructed otherwise, to execute transactions in the SOMA in accordance with the following domestic policy directive, to be released at 2:00 p.m.:
 
@@ -658,7 +658,7 @@ Notation Vote
 
 By notation vote completed on January 5, 2016, the Committee unanimously approved the minutes of the Committee meeting held on December 16-17, 2015.
 
-
+ 
 
 _____________________________
 
@@ -666,11 +666,11 @@ Brian F. Madigan
 
 Secretary
 
+ 
 
+ 
 
-
-
-
+ 
 
 
 

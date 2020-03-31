@@ -261,7 +261,7 @@ Participants' Views on Current Conditions and the Economic Outlook
 
     
 
-       The prognosis for labor markets remained an important factor in the outlook for consumer spending. Recent data on household expenditures were encouraging. Retail sales increased, spurred by price discounting. The Bureau of Economic Analysis revised up its estimates of the level of real disposable income--and thus of the personal saving rate--in the second and third quarters of this year. Those revisions, along with recent gains in equity prices, suggested a smaller probability that households would reduce spending to rebuild their savings more rapidly. However, uncertain job prospects, modest growth in real incomes, tight credit, and wealth levels that remained relatively low despite this years rise in equity prices and stabilization in house prices were seen as likely to weigh on consumer confidence and the growth of consumer spending for some time to come. Anecdotal evidence on consumer spending in this year's holiday season was mixed.
+       The prognosis for labor markets remained an important factor in the outlook for consumer spending. Recent data on household expenditures were encouraging. Retail sales increased, spurred by price discounting. The Bureau of Economic Analysis revised up its estimates of the level of real disposable income--and thus of the personal saving rate--in the second and third quarters of this year. Those revisions, along with recent gains in equity prices, suggested a smaller probability that households would reduce spending to rebuild their savings more rapidly. However, uncertain job prospects, modest growth in real incomes, tight credit, and wealth levels that remained relatively low despite this years rise in equity prices and stabilization in house prices were seen as likely to weigh on consumer confidence and the growth of consumer spending for some time to come. Anecdotal evidence on consumer spending in this year's holiday season was mixed.
 
     
 
@@ -292,7 +292,7 @@ Participants' Views on Current Conditions and the Economic Outlook
 
     
 
-       At the conclusion of the discussion, the Committee voted to authorize and direct the Federal Reserve Bank of New York, until it was instructed otherwise, to execute transactions in the System Account in accordance with the following domestic policy directive:
+       At the conclusion of the discussion, the Committee voted to authorize and direct the Federal Reserve Bank of New York, until it was instructed otherwise, to execute transactions in the System Account in accordance with the following domestic policy directive: 
 
     
 
@@ -300,7 +300,7 @@ Participants' Views on Current Conditions and the Economic Outlook
 
     
 
-       The vote encompassed approval of the statement below to be released at 2:15 p.m.:
+       The vote encompassed approval of the statement below to be released at 2:15 p.m.: 
 
     
 
@@ -349,7 +349,7 @@ Notation Votes
 
     
 
-       
+        
 
     
 

@@ -188,9 +188,9 @@ Stacey Tevlin
 Economist
 
 
+ 
 
-
-
+ 
 
 
 Thomas A. Connors
@@ -383,7 +383,7 @@ iii. Any changes in the terms of existing arrangements must be approved in advan
 
 OTHER OPERATIONS IN FOREIGN CURRENCIES
 
-6. Any other operations in foreign currencies for which governance is not otherwise specified in this Authorization (such as foreign exchange swap transactions with privatesector counterparties) must be authorized and directed in advance by the Committee.
+6. Any other operations in foreign currencies for which governance is not otherwise specified in this Authorization (such as foreign exchange swap transactions with private‑sector counterparties) must be authorized and directed in advance by the Committee.
 
 FOREIGN CURRENCY HOLDINGS
 
@@ -558,7 +558,7 @@ The Committee continues to view changes in the target range for the federal fund
 
 Staff Review of the Economic Situation
 
-The information available for the January 29-30 meeting indicated that labor market conditions continued to strengthen and that growth in real gross domestic product (GDP) was solid in the fourth quarter of last year, although the availability of data was more limited than usual because of the partial federal government shutdown that extended from December 22 to January 25. Consumer price inflation, as measured by the 12month percentage change in the price index for personal consumption expenditures (PCE), was a bit below 2 percent in November, held down in part by recent declines in consumer energy prices. Survey-based measures of longer-run inflation expectations were little changed.
+The information available for the January 29-30 meeting indicated that labor market conditions continued to strengthen and that growth in real gross domestic product (GDP) was solid in the fourth quarter of last year, although the availability of data was more limited than usual because of the partial federal government shutdown that extended from December 22 to January 25. Consumer price inflation, as measured by the 12‑month percentage change in the price index for personal consumption expenditures (PCE), was a bit below 2 percent in November, held down in part by recent declines in consumer energy prices. Survey-based measures of longer-run inflation expectations were little changed.
 
 Total nonfarm payroll employment expanded strongly in December. The national unemployment rate edged up but was still at a low level of 3.9 percent, while the labor force participation rate also increased somewhat; as a result, the employment-to-population ratio remained steady in December. The unemployment rates for African Americans, Asians, and Hispanics in December were below their levels at the end of the previous economic expansion, although persistent differentials in unemployment rates across groups remained. The share of workers employed part time for economic reasons continued to be close to the lows reached in late 2007. The rates of private-sector job openings and quits edged down in November but were still at high levels; initial claims for unemployment insurance benefits through the middle of January were near historically low levels. Average hourly earnings for all employees rose 3.2 percent over the 12 months ending in December.
 
@@ -640,7 +640,7 @@ Among those participants who commented on financial stability, a number expresse
 
 In their consideration of monetary policy at this meeting, participants judged that information received since December indicated that real economic activity had been rising at a solid rate, labor market conditions had continued to strengthen, and inflation had been near the Committee's objective. Participants generally expected economic activity to continue expanding at a solid pace in the period ahead, with strong labor market conditions and inflation near 2 percent. At the time of the December meeting, the Committee had noted that it would continue to monitor global economic and financial developments and assess their implications for the economic outlook. Participants observed that since then, the economic outlook had become more uncertain. Financial market volatility had remained elevated over the intermeeting period, and, despite some easing since the December FOMC meeting, overall financial conditions had tightened since September. In addition, the global economy had continued to record slower growth, and consumer and business sentiment had deteriorated. The government policy environment, including trade negotiations and the recent partial federal government shutdown, was also seen as a factor contributing to uncertainty about the economic outlook.
 
-Based on their current assessments, all participants expressed the view that it would be appropriate for the Committee to maintain the target range for the federal funds rate at 2-1/4 to 2-1/2percent. With regard to the Committee's postmeeting statement, participants supported a proposed change in the forward guidance language that would replace the previous guidance referring to "some further gradual increases in the target range for the federal funds rate" with an indication that, in light of "global economic and financial developments and muted inflation pressures," the Committee would "be patient as it determines what future adjustments to the target range for the federal funds rate may be appropriate." Participants also supported a proposal to remove from the statement the characterization of risks to the economic outlook as "roughly balanced."
+Based on their current assessments, all participants expressed the view that it would be appropriate for the Committee to maintain the target range for the federal funds rate at 2-1/4 to 2-1/2 percent. With regard to the Committee's postmeeting statement, participants supported a proposed change in the forward guidance language that would replace the previous guidance referring to "some further gradual increases in the target range for the federal funds rate" with an indication that, in light of "global economic and financial developments and muted inflation pressures," the Committee would "be patient as it determines what future adjustments to the target range for the federal funds rate may be appropriate." Participants also supported a proposal to remove from the statement the characterization of risks to the economic outlook as "roughly balanced."
 
 Participants pointed to a variety of considerations that supported a patient approach to monetary policy at this juncture as an appropriate step in managing various risks and uncertainties in the outlook. With regard to the domestic economic picture, additional data would help policymakers gauge the trajectory of business and consumer sentiment, whether the recent softness in core and total inflation and inflation compensation would persist, and the effect of the tightening of financial conditions on aggregate demand. Information arriving in coming months could also shed light on the effects of the recent partial federal government shutdown on the U.S. economy and on the results of the budget negotiations occurring in the wake of the shutdown, including the possible implications for the path of fiscal policy. A patient approach would have the added benefit of giving policymakers an opportunity to judge the response of economic activity and inflation to the recent steps taken to normalize the stance of monetary policy. Furthermore, a patient posture would allow time for a clearer picture of the international trade policy situation and the state of the global economy to emerge and, in particular, could allow policymakers to reach a firmer judgment about the extent and persistence of the economic slowdown in Europe and China.
 

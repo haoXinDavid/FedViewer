@@ -176,9 +176,9 @@ David W. Wilcox
 Economist
 
 
+ 
 
-
-
+ 
 
 
 James A. Clouse
@@ -520,7 +520,7 @@ Real total government purchases rose somewhat in the fourth quarter. Federal gov
 
 The U.S. international trade deficit widened in November for the second consecutive month. After declining in October, nominal exports fell again in November as decreases in exports of capital goods more than offset increases in exports of industrial supplies. Nominal imports in November rose to their highest level of the year, led by imports of industrial supplies and materials. The Census Bureau's advance trade estimates for December suggested a narrowing of the trade deficit in goods, as imports increased less than exports. Altogether, the change in real net exports was estimated to have made a substantial negative contribution to real GDP growth in the fourth quarter.
 
-Total U.S. consumer prices, as measured by the PCE price index, increased a little more than 1-1/2 percent over the 12 months ending in December, partly restrained by decreases in consumer food prices last year. Core PCE price inflation, which excludes changes in food and energy prices, was 1-3/4 percent over those same 12 months, held down in part by decreases in the prices of nonenergy imports over part of this period. Over the same 12-month period, total consumer prices as measured by the consumer price index (CPI) rose a bit more than 2 percent, while core CPI inflation was 2-1/4 percent. Survey-based measures of median longer-run inflation expectations--such as those from the Michigan survey and from the Desk's Survey of Primary Dealers and Survey of Market Participants--were unchanged, on net, over December and January.
+Total U.S. consumer prices, as measured by the PCE price index, increased a little more than 1-1/2 percent over the 12 months ending in December, partly restrained by decreases in consumer food prices last year. Core PCE price inflation, which excludes changes in food and energy prices, was 1-3/4 percent over those same 12 months, held down in part by decreases in the prices of non­energy imports over part of this period. Over the same 12-month period, total consumer prices as measured by the consumer price index (CPI) rose a bit more than 2 percent, while core CPI inflation was 2-1/4 percent. Survey-based measures of median longer-run inflation expectations--such as those from the Michigan survey and from the Desk's Survey of Primary Dealers and Survey of Market Participants--were unchanged, on net, over December and January.
 
 Foreign real GDP growth appeared to slow somewhat in the fourth quarter from its relatively strong third-quarter pace. Nevertheless, recent data on foreign industrial production and trade seemed to be stronger than private analysts had anticipated and were consistent with moderate economic growth abroad. Economic growth in both the euro area and the United Kingdom continued at relatively solid rates. In the emerging market economies (EMEs), GDP growth remained robust in China but slowed elsewhere in the Asian EMEs and in Mexico, while the pace of economic contraction appeared to lessen in South America. Inflation in the advanced foreign economies (AFEs) continued to rise, largely reflecting the pass-through of earlier increases in crude oil prices into retail energy prices. Inflation also rose in many EMEs, in part because of rising food and fuel prices; however, inflation fell notably in much of South America.
 
@@ -576,7 +576,7 @@ Financial conditions appeared to have changed little, on net, in recent months: 
 
 Recent reforms had diminished the risk of runs on or by prime money market funds. However, it was noted that other risks to financial stability might arise as the structure of funding markets evolved or if real estate asset values declined sharply. More broadly, it was pointed out that an environment of low interest rates and a relatively flat yield curve, if it persisted, had the potential to boost incentives to take on leverage and risk. Several participants emphasized that the increased resilience of the financial system since the financial crisis had importantly been the result of the key safety and soundness reforms put in place in recent years. However, having additional macroprudential tools could prove useful in addressing problems that could arise in real estate financing or in the shadow banking sector.
 
-Participants discussed whether their current assessments of economic conditions and the medium-term outlook warranted altering their earlier views of the appropriate path for the target range for the federal funds rate. Participants generally characterized their economic forecasts and their judgments about monetary policy as little changed since the December meeting. Against this backdrop, they thought it appropriate to maintain the target range for the federal funds rate at1/2 to3/4 percent at this meeting.
+Participants discussed whether their current assessments of economic conditions and the medium-term outlook warranted altering their earlier views of the appropriate path for the target range for the federal funds rate. Participants generally characterized their economic forecasts and their judgments about monetary policy as little changed since the December meeting. Against this backdrop, they thought it appropriate to maintain the target range for the federal funds rate at 1/2 to 3/4 percent at this meeting.
 
 Most participants continued to judge that, while the outlook was subject to considerable uncertainty, a gradual pace of rate increases over time was likely to be appropriate to promote the Committee's objectives of maximum employment and 2 percent inflation. Some participants viewed a gradual pace as likely to be warranted because inflation was still running below the Committee's objective or because the proximity of the federal funds rate to the effective lower bound placed constraints on the ability of monetary policy to respond to adverse shocks to the aggregate demand for goods and services. In addition, it was noted that the downward pressure on longer-term interest rates exerted by the Federal Reserve's asset holdings was expected to diminish in the years ahead in light of an anticipated gradual reduction in the size and duration of the Federal Reserve's balance sheet. Finally, the view that gradual increases in the federal funds rate were likely to be appropriate also reflected the assessment that the neutral real rate--defined as the real interest rate that is neither expansionary nor contractionary when the economy is operating at or near its potential--was currently quite low and was likely to rise only slowly over time.
 
@@ -600,7 +600,7 @@ The Committee also decided to maintain its existing policy of reinvesting princi
 
 At the conclusion of the discussion, the Committee voted to authorize and direct the Federal Reserve Bank of New York, until it was instructed otherwise, to execute transactions in the SOMA in accordance with the following domestic policy directive, to be released at 2:00 p.m.:
 
-"Effective February 2, 2017, the Federal Open Market Committee directs the Desk to undertake open market operations as necessary to maintain the federal funds rate in a target range of1/2 to3/4 percent, including overnight reverse repurchase operations (and reverse repurchase operations with maturities of more than one day when necessary to accommodate weekend, holiday, or similar trading conventions) at an offering rate of 0.50 percent, in amounts limited only by the value of Treasury securities held outright in the System Open Market Account that are available for such operations and by a per-counterparty limit of $30 billion per day.
+"Effective February 2, 2017, the Federal Open Market Committee directs the Desk to undertake open market operations as necessary to maintain the federal funds rate in a target range of 1/2 to 3/4 percent, including overnight reverse repurchase operations (and reverse repurchase operations with maturities of more than one day when necessary to accommodate weekend, holiday, or similar trading conventions) at an offering rate of 0.50 percent, in amounts limited only by the value of Treasury securities held outright in the System Open Market Account that are available for such operations and by a per-counterparty limit of $30 billion per day.
 
 The Committee directs the Desk to continue rolling over maturing Treasury securities at auction and to continue reinvesting principal payments on all agency debt and agency mortgage-backed securities in agency mortgage-backed securities. The Committee also directs the Desk to engage in dollar roll and coupon swap transactions as necessary to facilitate settlement of the Federal Reserve's agency mortgage-backed securities transactions."
 
@@ -610,7 +610,7 @@ The vote also encompassed approval of the statement below to be released at 2:00
 
 Consistent with its statutory mandate, the Committee seeks to foster maximum employment and price stability. The Committee expects that, with gradual adjustments in the stance of monetary policy, economic activity will expand at a moderate pace, labor market conditions will strengthen somewhat further, and inflation will rise to 2 percent over the medium term. Near-term risks to the economic outlook appear roughly balanced. The Committee continues to closely monitor inflation indicators and global economic and financial developments.
 
-In view of realized and expected labor market conditions and inflation, the Committee decided to maintain the target range for the federal funds rate at1/2 to3/4 percent. The stance of monetary policy remains accommodative, thereby supporting some further strengthening in labor market conditions and a return to 2 percent inflation.
+In view of realized and expected labor market conditions and inflation, the Committee decided to maintain the target range for the federal funds rate at 1/2 to 3/4 percent. The stance of monetary policy remains accommodative, thereby supporting some further strengthening in labor market conditions and a return to 2 percent inflation.
 
 In determining the timing and size of future adjustments to the target range for the federal funds rate, the Committee will assess realized and expected economic conditions relative to its objectives of maximum employment and 2 percent inflation. This assessment will take into account a wide range of information, including measures of labor market conditions, indicators of inflation pressures and inflation expectations, and readings on financial and international developments. In light of the current shortfall of inflation from 2 percent, the Committee will carefully monitor actual and expected progress toward its inflation goal. The Committee expects that economic conditions will evolve in a manner that will warrant only gradual increases in the federal funds rate; the federal funds rate is likely to remain, for some time, below levels that are expected to prevail in the longer run. However, the actual path of the federal funds rate will depend on the economic outlook as informed by incoming data.
 
@@ -634,11 +634,11 @@ Brian F. Madigan
 
 Secretary
 
+ 
 
+ 
 
-
-
-
+ 
 
 
 

@@ -48,7 +48,7 @@ Michelle A. Smith, Assistant Secretary
 
 Scott G. Alvarez, General Counsel
 
-Richard M. Ashton,1 Assistant General Counsel
+Richard M. Ashton,1Â  Assistant General Counsel
 
 Steven B. Kamin, Economist
 
@@ -68,7 +68,7 @@ Seth B. Carpenter, Senior Associate Director, Division of Monetary Affairs, Boar
 
 Thomas Laubach, Senior Adviser, Division of Research and Statistics, Board of Governors; Ellen E. Meade, Stephen A. Meyer, and Joyce K. Zickler, Senior Advisers, Division of Monetary Affairs, Board of Governors
 
-Daniel M. Covitz, Eric M. Engen, Michael T. Kiley,2 David E. Lebow, and Michael G. Palumbo, Associate Directors, Division of Research and Statistics, Board of Governors
+Daniel M. Covitz, Eric M. Engen, Michael T. Kiley,2Â  David E. Lebow, and Michael G. Palumbo, Associate Directors, Division of Research and Statistics, Board of Governors
 
 David Bowman, Deputy Associate Director, Division of International Finance, Board of Governors
 
@@ -96,7 +96,7 @@ Secretary's note: Advice subsequently was received that the selection of Mr. Pot
 
 By unanimous vote, the Committee selected James J. McAndrews to serve as Associate Economist, effective June 30, 2012, until the selection of his successor at the first regularly scheduled meeting of the Committee in 2013.
 
-By unanimous vote, the Committee amended the FOMC Policy on External Communications of Federal Reserve System Staff to clarify some specific aspects of the policy.3
+By unanimous vote, the Committee amended the FOMC Policy on External Communications of Federal Reserve System Staff to clarify some specific aspects of the policy.3Â 
 
 Discussion of Communications regarding Economic Projections
 
@@ -104,15 +104,15 @@ Meeting participants discussed several possibilities for enhancing the clarity a
 
 Developments in Financial Markets and the Federal Reserve's Balance Sheet
 
-The Manager of the System Open Market Account (SOMA) reported on developments in domestic and foreign financial markets during the period since the FOMC met on April 24-25, 2012. He also reported on System open market operations, including the ongoing reinvestment into agency-guaranteed mortgage-backed securities (MBS) of principal payments received on SOMA holdings of agency debt and agency-guaranteed MBS as well as the operations related to the maturity extension program authorized at the September 20¨C21, 2011, FOMC meeting. By unanimous vote, the Committee ratified the Desk's domestic transactions over the intermeeting period. There were no intervention operations in foreign currencies for the System's account over the intermeeting period.
+The Manager of the System Open Market Account (SOMA) reported on developments in domestic and foreign financial markets during the period since the FOMC met on April 24-25, 2012. He also reported on System open market operations, including the ongoing reinvestment into agency-guaranteed mortgage-backed securities (MBS) of principal payments received on SOMA holdings of agency debt and agency-guaranteed MBS as well as the operations related to the maturity extension program authorized at the September 20â€“21, 2011, FOMC meeting. By unanimous vote, the Committee ratified the Desk's domestic transactions over the intermeeting period. There were no intervention operations in foreign currencies for the System's account over the intermeeting period.
 
-By unanimous vote, the Authorization for Domestic Open Market Operations was amended to include the authority to conduct small-value operations for the purposes of routine testing of operational readiness. In addition, the Authorization was amended to include the authority to conduct intraday repurchase agreement (repo) transactions with foreign and international accounts to prevent daylight overdrafts in those accounts.4
+By unanimous vote, the Authorization for Domestic Open Market Operations was amended to include the authority to conduct small-value operations for the purposes of routine testing of operational readiness. In addition, the Authorization was amended to include the authority to conduct intraday repurchase agreement (repo) transactions with foreign and international accounts to prevent daylight overdrafts in those accounts.4Â 
 
 Staff Review of the Economic Situation
 
 The information reviewed at the June 19-20 meeting suggested that economic activity was expanding at a somewhat more modest pace than earlier in the year. Improvements in labor market conditions slowed in recent months, and the unemployment rate remained elevated. Consumer price inflation declined, primarily reflecting reductions in the prices of crude oil and gasoline, and measures of long-run inflation expectations continued to be stable.
 
-Private nonfarm employment rose at a slower pace in April and May than in the first quarter of the year, while total government employment continued to trend down. The unemployment rate stood at 8.2 percent in May, essentially the same as its average in the first quarter. The rate of long-duration unemployment remained very high, and the share of workers employed part time for economic reasons was little changed in recent months. Indicators of job openings and firms' hiring plans were mixed, while initial claims for unemployment insurance were essentially unchanged over the intermeeting period at a level consistent with modest net job gains in the coming months.
+Private nonfarm employment rose at a slower pace in April and May than in the first quarter of the year, while total government employment continued to trend down. The unemployment rate stood at 8.2 percent in May, essentially the same as its average in the first quarter.Â  The rate of long-duration unemployment remained very high, and the share of workers employed part time for economic reasons was little changed in recent months. Indicators of job openings and firms' hiring plans were mixed, while initial claims for unemployment insurance were essentially unchanged over the intermeeting period at a level consistent with modest net job gains in the coming months.
 
 Manufacturing production edged up, on net, in April and May after rising at a robust pace in the first quarter. Meanwhile, the rate of manufacturing capacity utilization remained about the same as earlier in the year. In recent months, the output of motor vehicles and parts increased further, on balance, although at a slower rate than in the first quarter, while factory output outside of the motor vehicle sector only inched up. Motor vehicle assemblies were scheduled to hold steady in the coming months, and broader indicators of manufacturing production, such as the diffusion indexes of new orders from the national and regional manufacturing surveys, were generally at levels consistent with modest increases in output in the near term.
 
@@ -152,11 +152,11 @@ Credit conditions in residential mortgage markets continued to be tight. Mortgag
 
 Gross issuance of long-term municipal bonds picked up in April and May, with net issuance turning positive for the first time since the beginning of 2011. However, credit default swap spreads for state governments generally moved higher, and spreads on long-term general obligation municipal bonds over comparable-maturity Treasury securities rose as well.
 
-Bank credit expanded in April and May. Banks' holdings of securities continued to rise, and core loans¡ªC&I, real estate, and consumer loans¡ªalso increased modestly. The May Survey of Terms of Business Lending indicated that lending conditions again eased slightly, although perhaps less so for small businesses.
+Bank credit expanded in April and May. Banks' holdings of securities continued to rise, and core loansâ€”C&I, real estate, and consumer loansâ€”also increased modestly. The May Survey of Terms of Business Lending indicated that lending conditions again eased slightly, although perhaps less so for small businesses.
 
-M2 increased at a somewhat slower pace in April and May than in the first quarter of the year. The level of M2 and its largest component¡ªliquid deposits¡ªremained elevated, apparently reflecting investors' continued desire to hold safe and liquid assets.
+M2 increased at a somewhat slower pace in April and May than in the first quarter of the year. The level of M2 and its largest componentâ€”liquid depositsâ€”remained elevated, apparently reflecting investors' continued desire to hold safe and liquid assets.
 
-Heightened financial strains in the euro area and indications of a weaker pace of global economic activity weighed on foreign financial markets during the intermeeting period. Yields on most euro-area peripheral countries' sovereign debt rose, particularly after the May 6 elections in Greece failed to produce a new government. In addition, indicators of the conditions of European banks continued to deteriorate: Rating agencies downgraded major banks in Germany, Italy, Spain, and several other European countries; prices of euro-area bank stocks fell sharply; and credit default swap premiums for many euro-area banks increased. Pressures on Spanish banks led euro-area authorities to agree to provide official aid to the Spanish government for the purpose of recapitalizing the country's troubled banks. Indicators of funding market stresses remained muted, as many banks obtained funds from the European Central Bank (ECB) rather than interbank markets. The spreads of euro London interbank offered rates (or euro LIBOR) over comparable overnight index swap rates, along with implied basis spreads from euro¨Cdollar swaps, were little changed at short maturities, and the amount of dollar swaps outstanding with the ECB declined on balance. The total outstanding amount drawn on the Federal Reserve's dollar liquidity swap lines with foreign central banks dropped to $24.2 billion over the intermeeting period.
+Heightened financial strains in the euro area and indications of a weaker pace of global economic activity weighed on foreign financial markets during the intermeeting period. Yields on most euro-area peripheral countries' sovereign debt rose, particularly after the May 6 elections in Greece failed to produce a new government. In addition, indicators of the conditions of European banks continued to deteriorate: Rating agencies downgraded major banks in Germany, Italy, Spain, and several other European countries; prices of euro-area bank stocks fell sharply; and credit default swap premiums for many euro-area banks increased. Pressures on Spanish banks led euro-area authorities to agree to provide official aid to the Spanish government for the purpose of recapitalizing the country's troubled banks. Indicators of funding market stresses remained muted, as many banks obtained funds from the European Central Bank (ECB) rather than interbank markets. The spreads of euro London interbank offered rates (or euro LIBOR) over comparable overnight index swap rates, along with implied basis spreads from euroâ€“dollar swaps, were little changed at short maturities, and the amount of dollar swaps outstanding with the ECB declined on balance. The total outstanding amount drawn on the Federal Reserve's dollar liquidity swap lines with foreign central banks dropped to $24.2 billion over the intermeeting period.
 
 Although equity prices in many countries rallied modestly late in the intermeeting period, global equity prices declined, on balance, over the period, with especially large net decreases in Japan and many emerging market economies. Flight-to-safety flows helped push yields on both U.K. and German 10-year sovereign debt to record lows before these rates partly retraced their declines. The staff's broad nominal dollar index ended the intermeeting period up moderately. Signs of a slowdown in global economic growth prompted policy easing by central banks in Brazil, China, and Australia, and the Bank of England announced new lending initiatives.
 

@@ -108,7 +108,7 @@
 
     
 
-       Michael G. Palumbo, Associate Director, Division of Research and Statistics, Board of Governors; Trevor A. Reeve, Associate Director, Division of International Finance, Board of Governors
+       Michael G. Palumbo, Associate Director, Division of Research and Statistics, Board of Governors; Trevor A. Reeve,Â¹ Associate Director, Division of International Finance, Board of Governors
 
     
 
@@ -146,7 +146,7 @@ Developments in Financial Markets and the Federal Reserve's Balance Sheet
 
     
 
-       By unanimous vote, the Committee agreed to extend the reciprocal currency (swap) arrangements with the Bank of Canada and the Banco de M¨¦xico for an additional year beginning in mid-December 2011; these arrangements are associated with the Federal Reserve's participation in the North American Framework Agreement of 1994. The arrangement with the Bank of Canada is in the amount of $2 billion equivalent, and the arrangement with the Banco de M¨¦xico is in the amount of $3 billion equivalent. The vote to renew the System's participation in these swap arrangements was taken at this meeting because of a provision in the arrangements that requires each party to provide six months' prior notice of an intention to terminate its participation.
+       By unanimous vote, the Committee agreed to extend the reciprocal currency (swap) arrangements with the Bank of Canada and the Banco de MÃ©xico for an additional year beginning in mid-December 2011; these arrangements are associated with the Federal Reserve's participation in the North American Framework Agreement of 1994. The arrangement with the Bank of Canada is in the amount of $2 billion equivalent, and the arrangement with the Banco de MÃ©xico is in the amount of $3 billion equivalent. The vote to renew the System's participation in these swap arrangements was taken at this meeting because of a provision in the arrangements that requires each party to provide six months' prior notice of an intention to terminate its participation.
 
     
 
@@ -162,7 +162,7 @@ Developments in Financial Markets and the Federal Reserve's Balance Sheet
 
     
 
-       Participants expressed a range of views on some aspects of a normalization strategy. Most participants indicated that once asset sales became appropriate, such sales should be put on a largely predetermined and preannounced path; however, many of those participants noted that the pace of sales could nonetheless be adjusted in response to material changes in the economic outlook. Several other participants preferred instead that the pace of sales be a key policy tool and be varied actively in response to changes in the outlook. A majority of participants preferred that sales of agency securities come after the first increase in the FOMC's target for short-term interest rates, and many of those participants also expressed a preference that the sales proceed relatively gradually, returning the SOMA's composition to all Treasury securities over perhaps five years. Participants noted that, for any given degree of policy tightening, more-gradual sales that commenced later in the normalization process would allow for an earlier increase of the federal funds rate target from its effective lower bound than would be the case if asset sales commenced earlier and at a more rapid pace. As a result, the Committee would later have the option of easing policy with an interest rate cut if economic conditions then warranted. An earlier increase in the federal funds rate was also mentioned as helpful to limit the potential for the very low level of that rate to encourage financial imbalances. A few participants expressed a preference that sales begin before any increase in the federal funds rate target, and a few other participants indicated that sales and increases in the federal funds rate target should commence at the same time. The participants who favored earlier sales also generally indicated a preference for relatively rapid sales, with some suggesting that agency securities in the SOMA be reduced to zero over as little as one or two years. Such an approach was viewed as allowing for a faster return to a normal policy environment, potentially reducing any upside risks to inflation stemming from outsized reserve balances, and more quickly eliminating any effects of SOMA holdings of agency securities on the allocation of credit. 
+       Participants expressed a range of views on some aspects of a normalization strategy. Most participants indicated that once asset sales became appropriate, such sales should be put on a largely predetermined and preannounced path; however, many of those participants noted that the pace of sales could nonetheless be adjusted in response to material changes in the economic outlook. Several other participants preferred instead that the pace of sales be a key policy tool and be varied actively in response to changes in the outlook. A majority of participants preferred that sales of agency securities come after the first increase in the FOMC's target for short-term interest rates, and many of those participants also expressed a preference that the sales proceed relatively gradually, returning the SOMA's composition to all Treasury securities over perhaps five years. Participants noted that, for any given degree of policy tightening, more-gradual sales that commenced later in the normalization process would allow for an earlier increase of the federal funds rate target from its effective lower bound than would be the case if asset sales commenced earlier and at a more rapid pace. As a result, the Committee would later have the option of easing policy with an interest rate cut if economic conditions then warranted. An earlier increase in the federal funds rate was also mentioned as helpful to limit the potential for the very low level of that rate to encourage financial imbalances. A few participants expressed a preference that sales begin before any increase in the federal funds rate target, and a few other participants indicated that sales and increases in the federal funds rate target should commence at the same time. The participants who favored earlier sales also generally indicated a preference for relatively rapid sales, with some suggesting that agency securities in the SOMA be reduced to zero over as little as one or two years. Such an approach was viewed as allowing for a faster return to a normal policy environment, potentially reducing any upside risks to inflation stemming from outsized reserve balances, and more quickly eliminating any effects of SOMA holdings of agency securities on the allocation of credit. Â 
 
 
        Most participants saw changes in the target for the federal funds rate as the preferred active tool for tightening monetary policy when appropriate. A number of participants noted that it would be advisable to begin using the temporary reserves-draining tools in advance of an increase in the Committee's federal funds rate target, in part because doing so would put the Federal Reserve in a better position to assess the effectiveness of the draining tools and judge the size of draining operations that might be required to support changes in the interest on excess reserves (IOER) rate in implementing a desired increase in short-term rates. A number of participants also noted that they would be prepared to sell securities sooner if the temporary reserves-draining operations and the end of the reinvestment of principal payments were not sufficient to support a fairly tight link between increases in the IOER rate and increases in short-term market interest rates.
@@ -179,7 +179,7 @@ Developments in Financial Markets and the Federal Reserve's Balance Sheet
 
 Staff Review of the Economic Situation
 
-       The information reviewed at the April 2627 meeting indicated, on balance, that economic activity expanded at a moderate pace in recent months, and labor market conditions continued to improve gradually. Headline consumer price inflation was boosted by large increases in food and energy prices, but measures of underlying inflation were still subdued and longer-run inflation expectations remained stable.
+       The information reviewed at the April 26Â–27 meeting indicated, on balance, that economic activity expanded at a moderate pace in recent months, and labor market conditions continued to improve gradually. Headline consumer price inflation was boosted by large increases in food and energy prices, but measures of underlying inflation were still subdued and longer-run inflation expectations remained stable.
 
     
 
@@ -363,7 +363,7 @@ Committee Policy Action
 
     
 
-       The vote encompassed approval of the statement below to be released at 12:30 p.m.:
+       The vote encompassed approval of the statement below to be released at 12:30 p.m.:Â 
 
     
 
@@ -407,7 +407,7 @@ Notation Vote
 
     
 
-       
+       Â 
 
     
 

@@ -248,7 +248,7 @@ Staff Review of the Financial Situation
 
     
 
-       Consumer credit increased at a solid pace in July, as a sizable increase in nonrevolving credit--driven by a surge in federally funded student loans--more than offset a decrease in revolving credit. Issuance of consumer asset-backed securities moved down in August, but spreads on these securities remained low. Delinquency rates for several categories of consumer loans moved down further in recent months, with some reaching levels not seen since the 200809 recession began.
+       Consumer credit increased at a solid pace in July, as a sizable increase in nonrevolving credit--driven by a surge in federally funded student loans--more than offset a decrease in revolving credit. Issuance of consumer asset-backed securities moved down in August, but spreads on these securities remained low. Delinquency rates for several categories of consumer loans moved down further in recent months, with some reaching levels not seen since the 200809 recession began.
 
     
 
@@ -395,7 +395,7 @@ Voting against this action: Richard W. Fisher, Narayana Kocherlakota, and Charle
 
     
 
-       
+        
 
     
 
@@ -408,7 +408,7 @@ William B. English
 
 Secretary
 
-       
+        
 
     
 

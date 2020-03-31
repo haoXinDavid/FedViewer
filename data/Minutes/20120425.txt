@@ -92,7 +92,7 @@ Developments in Financial Markets and the Federal Reserve's Balance Sheet
 
 The Manager of the System Open Market Account (SOMA) reported on developments in domestic and foreign financial markets during the period since the Federal Open Market Committee (FOMC) met on March 13, 2012. He also reported on System open market operations, including the ongoing reinvestment into agency-guaranteed mortgage-backed securities (MBS) of principal payments received on SOMA holdings of agency debt and agency-guaranteed MBS as well as the operations related to the maturity extension program authorized at the September 20-21, 2011, FOMC meeting. By unanimous vote, the Committee ratified the Desk's domestic transactions over the intermeeting period. There were no intervention operations in foreign currencies for the System's account over the intermeeting period.
 
-With Mr. Lacker dissenting, the Committee agreed to extend the reciprocal currency (swap) arrangements with the Bank of Canada and the Banco de M¨¦xico for an additional year beginning in mid-December 2012; these arrangements are associated with the Federal Reserve's participation in the North American Framework Agreement of 1994. The arrangement with the Bank of Canada allows for cumulative drawings of up to $2 billion equivalent, and the arrangement with the Banco de M¨¦xico allows for cumulative drawings of up to $3 billion equivalent. The vote to renew the System's participation in these swap arrangements was taken at this meeting because a provision in the Framework Agreement requires each party to provide six months' prior notice of an intention to terminate its participation. Mr. Lacker dissented because of his opposition, as indicated at the January meeting, to foreign exchange market intervention by the Federal Reserve, which such swap arrangements might facilitate, and because of his opposition to direct lending to foreign central banks.
+With Mr. Lacker dissenting, the Committee agreed to extend the reciprocal currency (swap) arrangements with the Bank of Canada and the Banco de MÃ©xico for an additional year beginning in mid-December 2012; these arrangements are associated with the Federal Reserve's participation in the North American Framework Agreement of 1994. The arrangement with the Bank of Canada allows for cumulative drawings of up to $2 billion equivalent, and the arrangement with the Banco de MÃ©xico allows for cumulative drawings of up to $3 billion equivalent. The vote to renew the System's participation in these swap arrangements was taken at this meeting because a provision in the Framework Agreement requires each party to provide six months' prior notice of an intention to terminate its participation. Mr. Lacker dissented because of his opposition, as indicated at the January meeting, to foreign exchange market intervention by the Federal Reserve, which such swap arrangements might facilitate, and because of his opposition to direct lending to foreign central banks.
 
 Staff Review of the Economic Situation
 
@@ -204,9 +204,9 @@ To support a stronger economic recovery and to help ensure that inflation, over 
 
 The Committee also decided to continue its program to extend the average maturity of its holdings of securities as announced in September. The Committee is maintaining its existing policies of reinvesting principal payments from its holdings of agency debt and agency mortgage-backed securities in agency mortgage-backed securities and of rolling over maturing Treasury securities at auction. The Committee will regularly review the size and composition of its securities holdings and is prepared to adjust those holdings as appropriate to promote a stronger economic recovery in a context of price stability."
 
-Voting for this action: Ben Bernanke, William C. Dudley, Elizabeth Duke, Dennis P. Lockhart, Sandra Pianalto, Sarah Bloom Raskin, Daniel K. Tarullo, John C. Williams, and Janet L. Yellen.
+Voting for this action:Â  Ben Bernanke, William C. Dudley, Elizabeth Duke, Dennis P. Lockhart, Sandra Pianalto, Sarah Bloom Raskin, Daniel K. Tarullo, John C. Williams, and Janet L. Yellen.
 
-Voting against this action: Jeffrey M. Lacker.
+Voting against this action:Â  Jeffrey M. Lacker.
 
 Mr. Lacker dissented because he did not believe that economic conditions were likely to warrant exceptionally low levels of the federal funds rate through late 2014. In his view, an increase in the federal funds rate was likely to be necessary by mid-2013 to prevent the emergence of inflationary pressures.
 
@@ -216,7 +216,7 @@ Notation Vote
 
 By notation vote completed on April 2, 2012, the Committee unanimously approved the minutes of the FOMC meeting held on March 13, 2012.
 
-
+Â 
 
 _____________________________
 

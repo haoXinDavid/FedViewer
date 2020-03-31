@@ -125,7 +125,7 @@ David J. Stockton
 
 Economist
 
-
+ 
 
 Thomas A. Connors 
 
@@ -285,7 +285,7 @@ The Manager of the System Open Market Account reported on recent developments in
 
 The information reviewed at the January meeting, which included the advance data on the national income and product accounts for the fourth quarter, indicated that economic activity had decelerated sharply in recent months. The contraction in homebuilding intensified in the fourth quarter, the growth in consumer spending slowed, and survey measures of both consumer and business sentiment were at low levels. In addition, industrial production contracted in the fourth quarter. Conditions in the labor market deteriorated noticeably, with private payroll employment posting a small decline in December and the unemployment rate rising. Readings on both headline and core inflation increased in recent months, although the twelve-month change in prices of core personal consumption expenditures in December was about the same as its year-earlier value.
 
-On average, private nonfarm payroll employment in November and December rose at only about half of the average pace seen from July to October. Over 2007 as a whole, the deterioration in labor demand was most pronounced in the construction and financial activities industries, which had been hardest hit by the difficulties in the housing and mortgage markets. Manufacturing employment declined yet again in December, while the decrease in employment in retail trade nearly reversed the sizable increase in that sector recorded in November. Aggregate hours of production or nonsupervisory workers were unchanged in December. The unemployment rate rose to 5.0 percent in December after having been at or near 4.7 percent since September.
+On average, private nonfarm payroll employment in November and December rose at only about half of the average pace seen from July to October. Over 2007 as a whole, the deterioration in labor demand was most pronounced in the construction and financial activities industries, which had been hardest hit by the difficulties in the housing and mortgage markets. Manufacturing employment declined yet again in December, while the decrease in employment in retail trade nearly reversed the sizable increase in that sector recorded in November. Aggregate hours of production or nonsupervisory workers were unchanged in December.  The unemployment rate rose to 5.0 percent in December after having been at or near 4.7 percent since September.
 
 Industrial production declined in the fourth quarter, as a drag from motor vehicles and construction-related industries more than offset a positive contribution from other industries. Output in high-tech industries moderated in the fourth quarter, largely because of a deceleration in production of computers and semiconductors. Utilities output climbed for a second consecutive quarter, and mining output was boosted by increases in natural gas extraction and in crude oil.
 
@@ -333,21 +333,21 @@ Participants agreed that the inflation data that were received since the Decembe
 
 In the discussion of monetary policy for the intermeeting period, most members believed that a further significant easing in policy was warranted at this meeting to address the considerable worsening of the economic outlook since December as well as increased downside risks. As had been the case in some previous cyclical episodes, a relatively low real federal funds rate now appeared appropriate for a time to counter the factors that were restraining economic growth, including the slide in housing activity and prices, the tightening of credit availability, and the drop in equity prices. Members judged that a 50 basis point reduction in the federal funds rate, together with the Committee's previous policy actions, would bring the real short-term rate to a level that was likely to help the economy expand at a moderate pace over time. Still, with no signs of stabilization in the housing sector and with financial conditions not yet stabilized, the Committee agreed that downside risks to growth would remain even after this action. Members were also mindful of the need for policy to promote price stability, and some noted that, when prospects for growth had improved, a reversal of a portion of the recent easing actions, possibly even a rapid reversal, might be appropriate. However, most members agreed that a 50 basis point easing at this meeting would likely not contribute to an increase in inflation pressures given the actual and expected weakness in economic growth and the consequent reduction in pressures on resources. Rather, members agreed that inflation was likely to moderate in coming quarters, but they also concurred that it would be necessary to continue to monitor inflation developments carefully.
 
-The Committee agreed that the statement to be released after the meeting should indicate that financial markets remained under considerable stress, that credit had tightened further for some businesses and households, andthat recent information pointed to a deepening of the housing contraction as well as to some softening in labor markets. The Committee again viewed it as appropriate to indicate that it expected inflation to moderate in coming quarters but also to emphasize that it would be necessary to monitor inflation developments carefully. The action taken at the meeting, combined with the cumulative policy easing already in place, should help to promote moderate growth over time and to mitigate the risks to economic activity. However, members concurred that downside risks to growth remained, and that the Committee would continue to assess the effects of financial and other developments on economic prospects and would act in a timely manner as needed to address those risks.
+The Committee agreed that the statement to be released after the meeting should indicate that financial markets remained under considerable stress, that credit had tightened further for some businesses and households, and that recent information pointed to a deepening of the housing contraction as well as to some softening in labor markets. The Committee again viewed it as appropriate to indicate that it expected inflation to moderate in coming quarters but also to emphasize that it would be necessary to monitor inflation developments carefully. The action taken at the meeting, combined with the cumulative policy easing already in place, should help to promote moderate growth over time and to mitigate the risks to economic activity. However, members concurred that downside risks to growth remained, and that the Committee would continue to assess the effects of financial and other developments on economic prospects and would act in a timely manner as needed to address those risks.
 
 At the conclusion of the discussion, the Committee voted to authorize and direct the Federal Reserve Bank of New York, until it was instructed otherwise, to execute transactions in the System Account in accordance with the following domestic policy directive:
 
-The Federal Open Market Committee seeks monetary and financial conditions that will foster price stability and promote sustainable growth in output. To further its long-run objectives, the Committee in the immediate future seeks conditions in reserve markets consistent with reducing the federal funds rate to an average of around 3 percent.
+The Federal Open Market Committee seeks monetary and financial conditions that will foster price stability and promote sustainable growth in output.  To further its long-run objectives, the Committee in the immediate future seeks conditions in reserve markets consistent with reducing the federal funds rate to an average of around 3 percent.
 
 The vote encompassed approval of the statement below to be released at 2:15 p.m.:
 
-The Federal Open Market Committee decided today to lower its target for the federal funds rate 50 basis points to 3 percent.
+The Federal Open Market Committee decided today to lower its target for the federal funds rate 50 basis points to 3 percent.
 
-Financial markets remain under considerable stress, and credit has tightened further for some businesses and households. Moreover, recent information indicates a deepening of the housing contraction as well as some softening in labor markets.
+Financial markets remain under considerable stress, and credit has tightened further for some businesses and households.  Moreover, recent information indicates a deepening of the housing contraction as well as some softening in labor markets.
 
 The Committee expects inflation to moderate in coming quarters, but it will be necessary to continue to monitor inflation developments carefully.
 
-Today's policy action, combined with those taken earlier, should help to promote moderate growth over time and to mitigate the risks to economic activity. However, downside risks to growth remain. The Committee will continue to assess the effects of financial and other developments on economic prospects and will act in a timely manner as needed to address those risks.
+Today's policy action, combined with those taken earlier, should help to promote moderate growth over time and to mitigate the risks to economic activity.  However, downside risks to growth remain.  The Committee will continue to assess the effects of financial and other developments on economic prospects and will act in a timely manner as needed to address those risks.
 
 Votes for this action: Messrs. Bernanke, Geithner, Kohn, Kroszner, and Mishkin, Ms. Pianalto, Messrs. Plosser, Stern, and Warsh.
 
@@ -379,13 +379,13 @@ At the conclusion of the discussion, the Committee voted to authorize and direct
 
 The vote encompassed approval of the text below for inclusion in the statement to be released at 8:30 a.m. on Tuesday, January 22:
 
-The Federal Open Market Committee has decided to lower its target for the federal funds rate 75 basis points to 3-1/2 percent.
+The Federal Open Market Committee has decided to lower its target for the federal funds rate 75 basis points to 3-1/2 percent.
 
 The Committee took this action in view of a weakening of the economic outlook and increasing downside risks to growth. While strains in short-term funding markets have eased somewhat, broader financial market conditions have continued to deteriorate and credit has tightened further for some businesses and households. Moreover, incoming information indicates a deepening of the housing contraction as well as some softening in labor markets.
 
 The Committee expects inflation to moderate in coming quarters, but it will be necessary to continue to monitor inflation developments carefully.
 
-Appreciable downside risks to growth remain. The Committee will continue to assess the effects of financial and other developments on economic prospects and will act in a timely manner as needed to address those risks.
+Appreciable downside risks to growth remain. The Committee will continue to assess the effects of financial and other developments on economic prospects and will act in a timely manner as needed to address those risks.
 
 Votes for this action: Messrs. Bernanke, Geithner, Evans, Hoenig, Kohn, Kroszner, Rosengren, and Warsh. 
 

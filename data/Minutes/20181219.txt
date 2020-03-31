@@ -74,7 +74,7 @@ Shaghil Ahmed and Christopher J. Erceg, Senior Associate Directors, Division of 
 
 Edward Nelson, Senior Adviser, Division of Monetary Affairs, Board of Governors
 
-Marnie Gillis DeBoer,3 David L¨®pez-Salido, and Min Wei, Associate Directors, Division of Monetary Affairs, Board of Governors; John J. Stevens, Associate Director, Division of Research and Statistics, Board of Governors
+Marnie Gillis DeBoer,3 David LÃ³pez-Salido, and Min Wei, Associate Directors, Division of Monetary Affairs, Board of Governors; John J. Stevens, Associate Director, Division of Research and Statistics, Board of Governors
 
 Steven A. Sharpe, Deputy Associate Director, Division of Research and Statistics, Board of Governors; Jeffrey D. Walker,2 Deputy Associate Director, Division of Reserve Bank Operations and Payment Systems, Board of Governors
 
@@ -254,7 +254,7 @@ The vote also encompassed approval of the statement below to be released at 2:00
 
 Consistent with its statutory mandate, the Committee seeks to foster maximum employment and price stability. The Committee judges that some further gradual increases in the target range for the federal funds rate will be consistent with sustained expansion of economic activity, strong labor market conditions, and inflation near the Committee's symmetric 2 percent objective over the medium term. The Committee judges that risks to the economic outlook are roughly balanced, but will continue to monitor global economic and financial developments and assess their implications for the economic outlook.
 
-In view of realized and expected labor market conditions and inflation, the Committee decided to raise the target range for the federal funds rate to 2-1/4 to 2-1/2percent.
+In view of realized and expected labor market conditions and inflation, the Committee decided to raise the target range for the federal funds rate to 2-1/4 to 2-1/2Â percent.
 
 In determining the timing and size of future adjustments to the target range for the federal funds rate, the Committee will assess realized and expected economic conditions relative to its maximum employment objective and its symmetric 2 percent inflation objective. This assessment will take into account a wide range of information, including measures of labor market conditions, indicators of inflation pressures and inflation expectations, and readings on financial and international developments."
 
@@ -276,7 +276,7 @@ James A. Clouse
 
 Secretary
 
-
+Â 
 
 
 1. The Federal Open Market Committee is referenced as the "FOMC" and the "Committee" in these minutes. Return to text

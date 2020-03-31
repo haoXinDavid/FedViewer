@@ -118,35 +118,35 @@
 
     
 
-       John C. Driscoll and Jennifer E. Roush, Senior Economists, Division of Monetary Affairs, Board of Governors; Andrea L. Kusko, Senior Economist, Division of Research and Statistics, Board of Governors; John W. Schindler, Senior Economist, Division of International Finance, Board of Governors
+       John C. Driscoll and Jennifer E. Roush, Senior Economists, Division of Monetary Affairs, Board of Governors; Andrea L. Kusko, Senior Economist, Division of Research and Statistics, Board of Governors; John W. Schindler, Senior Economist, Division of International Finance, Board of Governors 
 
     
 
-       Penelope A. Beattie, Assistant to the Secretary, Office of the Secretary, Board of Governors
+       Penelope A. Beattie, Assistant to the Secretary, Office of the Secretary, Board of Governors 
 
     
 
-       Valerie Hinojosa and Randall A. Williams, Records Management Analysts, Division of Monetary Affairs, Board of Governors
+       Valerie Hinojosa and Randall A. Williams, Records Management Analysts, Division of Monetary Affairs, Board of Governors 
 
     
 
-       Patrick K. Barron and John F. Moore, First Vice Presidents, Federal Reserve Banks of Atlanta and San Francisco, respectively
+       Patrick K. Barron and John F. Moore, First Vice Presidents, Federal Reserve Banks of Atlanta and San Francisco, respectively 
 
     
 
-       Loretta J. Mester, Harvey Rosenblum, and John C. Williams, Executive Vice Presidents, Federal Reserve Banks of Philadelphia, Dallas, and San Francisco, respectively
+       Loretta J. Mester, Harvey Rosenblum, and John C. Williams, Executive Vice Presidents, Federal Reserve Banks of Philadelphia, Dallas, and San Francisco, respectively 
 
     
 
-       David Altig, Richard P. Dzina, Arthur Rolnick, and Mark E. Schweitzer, Senior Vice Presidents, Federal Reserve Banks of Atlanta, New York, Minneapolis, and Cleveland, respectively
+       David Altig, Richard P. Dzina, Arthur Rolnick, and Mark E. Schweitzer, Senior Vice Presidents, Federal Reserve Banks of Atlanta, New York, Minneapolis, and Cleveland, respectively 
 
     
 
-       Daniel Aaronson, Todd E. Clark, and Andreas L. Hornstein, Vice Presidents, Federal Reserve Banks of Chicago, Kansas City, and Richmond, respectively
+       Daniel Aaronson, Todd E. Clark, and Andreas L. Hornstein, Vice Presidents, Federal Reserve Banks of Chicago, Kansas City, and Richmond, respectively 
 
     
 
-       Joshua L. Frost, Assistant Vice President, Federal Reserve Bank of New York
+       Joshua L. Frost, Assistant Vice President, Federal Reserve Bank of New York 
 
     
 
@@ -210,7 +210,7 @@ Staff Review of the Economic Situation
 
     
 
-       Incoming data suggested that economic activity abroad continued to expand at a strong pace in the first half of the year. Among the advanced foreign economies, growth of real gross domestic product (GDP) in the first quarter was particularly strong in Canada and Japan, and recent indicators for those countries pointed to continued solid increases in the second quarter. In contrast, the rise in economic activity in the euro area was subdued, as favorable readings for the manufacturing sector were counterbalanced by weakness in domestic demand. Since the time of the April meeting of the Federal Open Market Committee (FOMC), concerns about the fiscal situation of several euro-area countries intensified sharply. In response, European authorities announced a number of policy measures, including acceleration of fiscal consolidation plans in some countries, finalization of an International Monetary Fund (IMF) and European Union (EU) assistance package for Greece, and the introduction of a broader 500 billion financial assistance program that could be complemented by bilateral IMF lending. The European Central Bank (ECB) also announced further measures to improve liquidity conditions in impaired markets, including a program to purchase sovereign and private debt.
+       Incoming data suggested that economic activity abroad continued to expand at a strong pace in the first half of the year. Among the advanced foreign economies, growth of real gross domestic product (GDP) in the first quarter was particularly strong in Canada and Japan, and recent indicators for those countries pointed to continued solid increases in the second quarter. In contrast, the rise in economic activity in the euro area was subdued, as favorable readings for the manufacturing sector were counterbalanced by weakness in domestic demand. Since the time of the April meeting of the Federal Open Market Committee (FOMC), concerns about the fiscal situation of several euro-area countries intensified sharply. In response, European authorities announced a number of policy measures, including acceleration of fiscal consolidation plans in some countries, finalization of an International Monetary Fund (IMF) and European Union (EU) assistance package for Greece, and the introduction of a broader €500 billion financial assistance program that could be complemented by bilateral IMF lending. The European Central Bank (ECB) also announced further measures to improve liquidity conditions in impaired markets, including a program to purchase sovereign and private debt.
 
     
 
@@ -314,7 +314,7 @@ Committee Policy Action
 
     
 
-       At the conclusion of the discussion, the Committee voted to authorize and direct the Federal Reserve Bank of New York, until it was instructed otherwise, to execute transactions in the System Account in accordance with the following domestic policy directive:
+       At the conclusion of the discussion, the Committee voted to authorize and direct the Federal Reserve Bank of New York, until it was instructed otherwise, to execute transactions in the System Account in accordance with the following domestic policy directive: 
 
     
 
@@ -322,7 +322,7 @@ Committee Policy Action
 
     
 
-       The vote encompassed approval of the statement below to be released at 2:15 p.m.:
+       The vote encompassed approval of the statement below to be released at 2:15 p.m.: 
 
     
 
@@ -378,7 +378,7 @@ Conference Call
 
     
 
-       At the conclusion of the discussion, the Committee voted unanimously to approve the following resolution:
+       At the conclusion of the discussion, the Committee voted unanimously to approve the following resolution: 
 
     
 
@@ -394,11 +394,11 @@ Conference Call
 
 Notation Vote
 
-       By notation vote completed on May 17, 2010, the Committee unanimously approved the minutes of the FOMC meeting held on April 2728, 2010.
+       By notation vote completed on May 17, 2010, the Committee unanimously approved the minutes of the FOMC meeting held on April 2728, 2010.
 
     
 
-       
+        
 
     
 
