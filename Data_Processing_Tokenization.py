@@ -31,10 +31,10 @@ def Preprocess():
     Calc the diff of target rates.
     :return: Merged Dataframe of all data
     '''
-    path_dir_minutes = os.getcwd() + os.sep + 'Minutes'
+    path_dir_minutes = os.getcwd() + os.sep + 'minutes'
     path_dir_statements = os.getcwd() + os.sep + 'statements'
-    path_target_rate_1 = os.getcwd() + os.sep + 'DFEDTAR.csv'
-    path_target_rate_2 = os.getcwd() + os.sep + 'DFEDTARL(1).csv'
+    path_target_rate_1 = os.getcwd() + os.sep + 'rates' + os.sep + 'DFEDTAR.csv'
+    path_target_rate_2 = os.getcwd() + os.sep + 'rates' + os.sep + 'DFEDTARL(1).csv'
 
 
     '''concate statements files'''
