@@ -10,18 +10,21 @@ Zhaokai     Wang
 Jingyu      Zhao, Jingyuz@connect.hku.hk 3035644697
 '''
 
-import os
 import codecs
 import datetime as dt
-import nltk
-import pandas as pd
+import gc
+import os
+
 import numpy as np
-from nltk.tokenize import word_tokenize
+import pandas as pd
 from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
-from collections import Counter
+from nltk.tokenize import word_tokenize
 
 '''-----------------------------------------------------------------------------------------------------------------'''
+
+
+
 ## Preprocessing
 
 def Preprocess():
@@ -36,14 +39,14 @@ def Preprocess():
     path_target_rate_1 = os.getcwd() + os.sep + 'rates' + os.sep + 'DFEDTAR.csv'
     path_target_rate_2 = os.getcwd() + os.sep + 'rates' + os.sep + 'DFEDTARL(1).csv'
 
-
     '''concate statements files'''
     file_in_statement_folder = os.listdir(path_dir_statements)
     statements, statement_dates = [], []  # list of statements' content and correspondent date
     for file_name in file_in_statement_folder:
         if file_name[-3:] == 'txt':
             path_file = path_dir_statements + os.sep + file_name
-            statement = codecs.open(path_file, encoding='utf-8').read().strip() # This way of reading .txt files does not generate garbled text
+            statement = codecs.open(path_file,
+                                    encoding='utf-8').read().strip()  # This way of reading .txt files does not generate garbled text
             date = file_name[:8]
             statements.append(statement)
             statement_dates.append(dt.datetime.strptime(date, '%Y%m%d'))
@@ -66,10 +69,10 @@ def Preprocess():
     '''concate Fed Target rates '''
     df_target_rate_1 = pd.read_csv(path_target_rate_1, index_col=False)
     df_target_rate_2 = pd.read_csv(path_target_rate_2, index_col=False)
-    df_target_rate_1 = df_target_rate_1.rename(columns={'DFEDTAR':'target_rate'})
-    df_target_rate_2 = df_target_rate_2.rename(columns={'DFEDTARL':'target_rate'})
+    df_target_rate_1 = df_target_rate_1.rename(columns={'DFEDTAR': 'target_rate'})
+    df_target_rate_2 = df_target_rate_2.rename(columns={'DFEDTARL': 'target_rate'})
     df_target_rate = pd.concat([df_target_rate_1, df_target_rate_2])
-    df_target_rate = df_target_rate.rename(columns={'DATE':'dates'})
+    df_target_rate = df_target_rate.rename(columns={'DATE': 'dates'})
     df_target_rate['dates'] = pd.to_datetime(df_target_rate['dates'])
     print(df_target_rate)
 
@@ -88,25 +91,49 @@ def Preprocess():
     df_merged.to_pickle(os.getcwd() + os.sep + 'merged.pkl')
     return df_merged
 
+
+def tokenize(corpus):
+    global count
+    count += 1
+    print(count)
+    tokenized_corpus = word_tokenize(corpus.lower())
+    wnl = WordNetLemmatizer()
+    new_list = []
+    for word in tokenized_corpus:
+
+        if word not in stopwords.words('english'):
+            lower_word = word.lower()
+            lem_word = wnl.lemmatize(lower_word)
+
+            if lem_word not in stopwords.words('english'):
+                new_list.append(lem_word)
+
+    new_corpus = ' '.join(new_list)
+    return new_corpus
+
+
 def Modelling():
     '''
     Stemming, tf-idf vectorization, modelling
     :return:
     '''
+
     df_data = pd.read_pickle(os.getcwd() + os.sep + 'merged.pkl')
-    # print(df_data.to_string())
-    snow = nltk.stem.SnowballStemmer('english')
-    # df_data = df_data.dropna(how='any')
-    df_data['tokenized_statement'] = [snow.stem(i) if pd.notna(i) else np.nan for i in df_data['statement']]
-    df_data['tokenized_minute'] = [snow.stem(i) if pd.notna(i) else np.nan for i in df_data['minute']]
-    print(df_data.to_string())
+
+    df_data['tokenized_statement'] = [tokenize(i) if pd.notna(i) else np.nan for i in df_data['statement']]
+    df_data.to_pickle(os.getcwd() + os.sep + 's_tokenized_data.pkl')
+    print("Done tokenizing statement.")
+    global count
+    count = 0
+    gc.collect()
+
+    df_data = pd.read_pickle(os.getcwd() + os.sep + 's_tokenized_data.pkl')
+    df_data['tokenized_minute'] = [tokenize(i) if pd.notna(i) else np.nan for i in df_data['minute']]
 
     df_data.to_pickle(os.getcwd() + os.sep + 'tokenized_data.pkl')
+    print("Done tokenizing minute.")
+
 
 if __name__ == "__main__":
     # Preprocess()
     Modelling()
-
-
-
-
