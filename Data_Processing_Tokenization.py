@@ -22,8 +22,7 @@ from nltk.stem import WordNetLemmatizer
 from nltk.tokenize import word_tokenize
 
 '''-----------------------------------------------------------------------------------------------------------------'''
-
-
+count = 0
 
 ## Preprocessing
 
