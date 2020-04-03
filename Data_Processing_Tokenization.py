@@ -134,5 +134,7 @@ def Modelling():
 
 
 if __name__ == "__main__":
-    # Preprocess()
+    Preprocess()
     Modelling()
+    #df = pd.read_pickle(os.getcwd() + os.sep + 'tokenized_data.pkl')
+    #print(df.tail())
