@@ -24,6 +24,7 @@ from nltk.tokenize import word_tokenize
 '''-----------------------------------------------------------------------------------------------------------------'''
 count = 0
 
+
 ## Preprocessing
 
 def Preprocess():
@@ -111,7 +112,7 @@ def tokenize(corpus):
     return new_corpus
 
 
-def Modelling():
+def Process():
     '''
     Stemming, tf-idf vectorization, modelling
     :return:
@@ -135,6 +136,4 @@ def Modelling():
 
 if __name__ == "__main__":
     Preprocess()
-    Modelling()
-    #df = pd.read_pickle(os.getcwd() + os.sep + 'tokenized_data.pkl')
-    #print(df.tail())
+    Process()

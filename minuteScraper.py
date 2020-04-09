@@ -6,7 +6,6 @@ from multiprocessing import Pool
 import csv
 import glob
 
-
 os.chdir('.')
 
 
@@ -20,13 +19,13 @@ def minarchive(year):
         url = url_main + '/monetarypolicy/fomchistorical' + str(year) + '.htm'
 
     r = requests.get(url)
-    soup = BeautifulSoup(r.text,"lxml")
+    soup = BeautifulSoup(r.text, "lxml")
     if year > 1996:
-      min_link = soup.findAll('a', href=re.compile('(?=.*minutes)(?=.*' + str(year) + ')'),
-                            text=lambda text: text and 'PDF' not in text)
+        min_link = soup.findAll('a', href=re.compile('(?=.*minutes)(?=.*' + str(year) + ')'),
+                                text=lambda text: text and 'PDF' not in text)
     else:
-      min_link = soup.findAll('a', href=re.compile('(?=.*MINUTES)(?=.*' + str(year) + ')'),
-                            text=lambda text: text and 'PDF' not in text)
+        min_link = soup.findAll('a', href=re.compile('(?=.*MINUTES)(?=.*' + str(year) + ')'),
+                                text=lambda text: text and 'PDF' not in text)
 
     # Methods
     m0 = {'name': 'div', 'attrs': {'id': 'article'}}
@@ -48,7 +47,7 @@ def minarchive(year):
 
 
 def saveFile(fname, year, text):
-    file = open(fname + '.txt', 'w',errors='ignore')
+    file = open(fname + '.txt', 'w', errors='ignore')
 
     text_clean = '\n'.join(t.text for t in text)
     text_clean = re.sub(r'\r\n', ' ', text_clean)
